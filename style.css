@@ -66,6 +66,7 @@ h1 {
 .closing h2 { color: var(--navy); font-size: 23px; line-height: 1.9; margin: 16px 0 24px; }
 .closing-message { color: var(--navy); font-size: 22px; line-height: 1.9; font-weight: 500; }
 .closing-message strong { font-size: 40px; font-weight: 600; line-height: 1.4; margin-right: 5px; }
+.closing-message span { display: inline-block; }
 .thanks { font-size: 14px; line-height: 2; margin-top: 20px; }
 .signature { display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 24px; text-align: left; }
 .signature img { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; }
