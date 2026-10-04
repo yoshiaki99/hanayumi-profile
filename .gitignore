@@ -1,0 +1,7 @@
+.env
+.env.*
+.DS_Store
+node_modules/
+output/
+公式LINE用自己紹介_20261001.txt
+徳永_顔写真_500x500.jpg
