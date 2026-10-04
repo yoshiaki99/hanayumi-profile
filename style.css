@@ -3,7 +3,6 @@
   --ink: #242b34;
   --muted: #5e6977;
   --line: #dfe4ea;
-  --pale: #f3f5f8;
 }
 * { box-sizing: border-box; }
 body {
@@ -56,12 +55,12 @@ h1 {
 .chapter h2 { color: var(--navy); font-size: 26px; font-weight: 700; line-height: 1.7; margin: 0; letter-spacing: .015em; }
 .chapter > p + p { margin-top: 18px; }
 .chapter strong { font-weight: 600; }
-.story-content .highlight-line { margin-top: 24px; padding: 13px 18px; border-left: 3px solid var(--navy); background: var(--pale); font-weight: 500; }
-.care-chapter { padding: 29px 26px; margin: 32px 0 0; border: 0; border-radius: 3px; background: var(--pale); }
+.story-content .highlight-line { margin-top: 24px; padding: 13px 18px; border-left: 3px solid var(--navy); background: #fff; font-weight: 500; }
+.care-chapter { padding: 29px 26px; margin: 32px 0 0; border: 0; border-radius: 3px; background: #fff; }
 .care-chapter .chapter-heading { margin-bottom: 20px; }
-.research-note { margin-top: 24px; padding: 21px 22px; border-left: 3px solid var(--navy); background: var(--pale); }
+.research-note { margin-top: 24px; padding: 21px 22px; border-left: 3px solid var(--navy); background: #fff; }
 .research-note p + p { margin-top: 16px; }
-.closing { background: var(--pale); border-top: 1px solid var(--line); }
+.closing { background: #fff; border-top: 1px solid var(--line); }
 .closing-inner { max-width: 740px; margin: auto; padding: 50px 32px 54px; text-align: center; }
 .closing h2 { color: var(--navy); font-size: 23px; line-height: 1.9; margin: 16px 0 24px; }
 .closing-message { color: var(--navy); font-size: 22px; line-height: 1.9; font-weight: 500; }
